@@ -17,7 +17,9 @@ confiáveis, manuteníveis e bem documentados.
 
 ## 🧪 Principais projetos
 - 🔹 [qa-cypress-e2e](https://github.com/victorbarsanele/qa-cypress-e2e)  
-  Automação E2E com Cypress, boas práticas, CI pipeline e documentação de decisões de QA.
+  Projeto de automação E2E com Cypress focado em boas práticas, isolamento de dados, relatórios HTML com Mochawesome e CI/CD com GitHub Actions.
+- 🔹 [qa-cypress-api](https://github.com/victorbarsanele/qa-cypress-api)  
+  Projeto de automação de API com Cypress cobrindo CRUD, autenticação via token, cenários negativos, relatórios consolidados com Mochawesome e pipeline de CI com publicação de artifacts.
 
 ## 🛠️ Tecnologias
 - Cypress
@@ -46,8 +48,9 @@ and well-documented automated tests.
 
 ## 🧪 Main Projects
 - 🔹 [qa-cypress-e2e](https://github.com/victorbarsanele/qa-cypress-e2e)  
-  End-to-End test automation using Cypress, following best practices,
-  including CI pipeline integration and documented QA decisions.
+  End-to-end automation project with Cypress focused on QA best practices, test data isolation, HTML reporting with Mochawesome, and CI/CD integration using GitHub Actions.
+- 🔹 [qa-cypress-api](https://github.com/victorbarsanele/qa-cypress-api)  
+  API automation project with Cypress covering CRUD operations, token-based authentication, positive and negative test scenarios, consolidated reporting with Mochawesome, and CI pipeline with artifact publishing.
 
 ## 🛠️ Tech Stack
 - Cypress
