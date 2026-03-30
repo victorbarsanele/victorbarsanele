@@ -6,10 +6,10 @@
 
 # Victor Barsanele
 
-QA Engineer | Automação de Testes | Cypress | JavaScript
+QA Engineer | Automação de Testes | Cypress | Playwight | JavaScript
 
 Sou profissional de QA com foco em automação de testes End-to-End.
-Tenho experiência com Cypress, testes funcionais, pipelines de CI com GitHub Actions
+Tenho experiência com Cypress, Playwright, testes funcionais, pipelines de CI com GitHub Actions
 e construção de projetos de automação baseados em cenários reais.
 
 Meu objetivo é garantir qualidade de software através de testes automatizados
@@ -23,7 +23,8 @@ confiáveis, manuteníveis e bem documentados.
 
 ## 🛠️ Tecnologias
 - Cypress
-- JavaScript
+- Playwright
+- JavaScript / TypeScript
 - GitHub Actions (CI)
 - Testes End-to-End
 - Git / GitHub
@@ -37,10 +38,10 @@ confiáveis, manuteníveis e bem documentados.
 
 # Victor Barsanele
 
-QA Engineer | Test Automation | Cypress | JavaScript
+QA Engineer | Test Automation | Cypress | Playwright | JavaScript
 
 I am a QA professional focused on End-to-End test automation.
-I work with Cypress, functional testing, CI pipelines using GitHub Actions,
+I work with Cypress, Playwright, functional testing, CI pipelines using GitHub Actions,
 and building automation projects based on real-world scenarios.
 
 My goal is to ensure software quality through reliable, maintainable,
@@ -54,7 +55,8 @@ and well-documented automated tests.
 
 ## 🛠️ Tech Stack
 - Cypress
-- JavaScript
+- Playwright
+- JavaScript / TypeScript
 - GitHub Actions (CI)
 - End-to-End Testing
 - Git / GitHub
