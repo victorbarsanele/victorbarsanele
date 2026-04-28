@@ -17,8 +17,6 @@ Practitioner. Aberto a oportunidades remotas em QA.
 
 - 🔹 [qa-playwright-tests](https://github.com/victorbarsanele/qa-playwright-tests)  
   Projeto de automação de testes end-to-end para o Automation Exercise, desenvolvido com Playwright e TypeScript. Cobre testes de UI e API, incluindo fluxos de autenticação, produtos, carrinho e checkout, utilizando uma estratégia híbrida de dados (factory dinâmica de usuários + setup via API) para garantir confiabilidade e escalabilidade. Estruturado com Page Object Model, clientes de API e integração contínua (CI), com suítes de testes smoke, regressão e execução cross-browser.
-- 🔹 [qa-cypress-e2e](https://github.com/victorbarsanele/qa-cypress-e2e)  
-  Projeto de automação E2E com Cypress focado em boas práticas, isolamento de dados, relatórios HTML com Mochawesome e CI/CD com GitHub Actions.
 - 🔹 [qa-cypress-api](https://github.com/victorbarsanele/qa-cypress-api)  
   Projeto de automação de API com Cypress cobrindo CRUD, autenticação via token, cenários negativos, relatórios consolidados com Mochawesome e pipeline de CI com publicação de artifacts.
 - 🔹 [qa-cypress-e2e](https://github.com/victorbarsanele/qa-cypress-e2e)  
