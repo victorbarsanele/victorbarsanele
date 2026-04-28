@@ -21,7 +21,7 @@ Practitioner. Aberto a oportunidades remotas em QA.
   Projeto de automação E2E com Cypress focado em boas práticas, isolamento de dados, relatórios HTML com Mochawesome e CI/CD com GitHub Actions.
 - 🔹 [qa-cypress-api](https://github.com/victorbarsanele/qa-cypress-api)  
   Projeto de automação de API com Cypress cobrindo CRUD, autenticação via token, cenários negativos, relatórios consolidados com Mochawesome e pipeline de CI com publicação de artifacts.
-  - 🔹 [qa-cypress-e2e](https://github.com/victorbarsanele/qa-cypress-e2e)  
+- 🔹 [qa-cypress-e2e](https://github.com/victorbarsanele/qa-cypress-e2e)  
   Projeto de automação E2E com Cypress focado em boas práticas, isolamento de dados, relatórios HTML com Mochawesome e CI/CD com GitHub Actions.
 
 ## 🛠️ Tecnologias
