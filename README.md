@@ -6,29 +6,36 @@
 
 # Victor Barsanele
 
-QA Engineer | Automação de Testes | Cypress | Playwright | JavaScript
+Software Engineer Jr | Node.js · TypeScript · Fastify · React
 
-Engenheiro de QA focado em automação de testes com Playwright e Cypress.
-Desenvolvo suítes de testes E2E e de API utilizando TypeScript, Page Object Model
-e pipelines de CI/CD com GitHub Actions. Atualmente estudando AWS Cloud
-Practitioner. Aberto a oportunidades remotas em QA.
+Software Engineer Jr com foco em Node.js, TypeScript, Fastify, PostgreSQL/Prisma
+e React. Construo aplicações full-stack completas, do banco de dados à interface.
+Atualmente desenvolvendo um sistema de agendamento com atendimento automatizado
+via WhatsApp e IA para um cliente real. Base sólida em testes automatizados
+(Playwright, Cypress, Vitest), aplicada hoje ao próprio código que escrevo.
+Aberto a oportunidades de Software Engineer Jr, remotas ou em São Paulo.
 
-## 🧪 Principais projetos
+## 🚀 Projeto em destaque
+
+- 🔹 [barbearia-agendamento-ia](https://github.com/victorbarsanele/barbearia-agendamento-ia)  
+  Sistema full-stack de agendamento desenvolvido sob encomenda para um cliente real (barbearia), atualmente em piloto antes do deploy em produção. Backend em Fastify, TypeScript e Prisma/PostgreSQL, frontend em React, Vite e Tailwind. Atendimento automatizado via WhatsApp usando Google Gemini com Function Calling, incluindo criação, alteração e cancelamento de agendamentos por linguagem natural. Autenticação JWT, escalonamento automático para atendimento humano e correção de condição de corrida em confirmação de horários.
+
+## 🧪 Projetos de automação de testes
 
 - 🔹 [qa-playwright-tests](https://github.com/victorbarsanele/qa-playwright-tests)  
-  Projeto de automação de testes end-to-end para o Automation Exercise, desenvolvido com Playwright e TypeScript. Cobre testes de UI e API, incluindo fluxos de autenticação, produtos, carrinho e checkout, utilizando uma estratégia híbrida de dados (factory dinâmica de usuários + setup via API) para garantir confiabilidade e escalabilidade. Estruturado com Page Object Model, clientes de API e integração contínua (CI), com suítes de testes smoke, regressão e execução cross-browser.
+  Suíte de testes E2E e de API para o Automation Exercise, desenvolvida com Playwright e TypeScript. Page Object Model, BDD com Cucumber/Gherkin, e pipeline de CI/CD via GitHub Actions com relatório publicado automaticamente.
 - 🔹 [qa-cypress-api](https://github.com/victorbarsanele/qa-cypress-api)  
-  Projeto de automação de API com Cypress cobrindo CRUD, autenticação via token, cenários negativos, relatórios consolidados com Mochawesome e pipeline de CI com publicação de artifacts.
+  Automação de API com Cypress cobrindo CRUD, autenticação via token, cenários negativos e relatórios com Mochawesome.
 - 🔹 [qa-cypress-e2e](https://github.com/victorbarsanele/qa-cypress-e2e)  
-  Projeto de automação E2E com Cypress focado em boas práticas, isolamento de dados, relatórios HTML com Mochawesome e CI/CD com GitHub Actions.
+  Automação E2E com Cypress focada em isolamento de dados, relatórios HTML com Mochawesome e CI/CD com GitHub Actions.
 
 ## 🛠️ Tecnologias
-- Cypress
-- Playwright
-- JavaScript / TypeScript
-- GitHub Actions (CI)
-- Testes End-to-End
-- Git / GitHub
+
+- Node.js, Fastify, TypeScript, Prisma, PostgreSQL
+- React, Vite, Tailwind CSS
+- Google Gemini (Function Calling), Evolution API (WhatsApp)
+- Vitest, Playwright, Cypress
+- Git, GitHub Actions
 
 ## 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/victorbarsanele/
@@ -39,29 +46,36 @@ Practitioner. Aberto a oportunidades remotas em QA.
 
 # Victor Barsanele
 
-QA Engineer | Playwright · Cypress | TypeScript · JavaScript | AWS (estudando)
+Software Engineer Jr | Node.js · TypeScript · Fastify · React
 
-QA Engineer focused on test automation with Playwright and Cypress.
-I build E2E and API test suites with TypeScript, Page Object Model, 
-and CI/CD pipelines via GitHub Actions. Currently studying AWS Cloud 
-Practitioner. Open to remote QA Automation roles.
+Software Engineer Jr focused on Node.js, TypeScript, Fastify, PostgreSQL/Prisma,
+and React. I build complete full-stack applications, from database to UI.
+Currently developing a scheduling system with automated WhatsApp and AI
+customer service for a real client. Solid foundation in automated testing
+(Playwright, Cypress, Vitest), now applied to my own code.
+Open to Software Engineer Jr opportunities, remote or in São Paulo.
 
-## 🧪 Main Projects
+## 🚀 Featured project
+
+- 🔹 [barbearia-agendamento-ia](https://github.com/victorbarsanele/barbearia-agendamento-ia)  
+  Full-stack scheduling system built for a real client (a barbershop), currently in a pilot phase before production deploy. Backend in Fastify, TypeScript, and Prisma/PostgreSQL, frontend in React, Vite, and Tailwind. Automated WhatsApp customer service using Google Gemini with Function Calling, including natural-language appointment creation, changes, and cancellations. JWT auth, automatic escalation to a human agent, and a race-condition fix for appointment confirmation.
+
+## 🧪 Test automation projects
 
 - 🔹 [qa-playwright-tests](https://github.com/victorbarsanele/qa-playwright-tests)  
-  End-to-end test automation project for Automation Exercise built with Playwright and TypeScript. Covers UI and API testing, including authentication, products, cart, and checkout flows, with a hybrid test data strategy (dynamic user factory + API setup) to ensure reliability and scalability. Structured with Page Object Model, API clients, and CI integration, featuring smoke, regression, and cross-browser test suites.
+  E2E and API test suite for Automation Exercise, built with Playwright and TypeScript. Page Object Model, BDD with Cucumber/Gherkin, and a CI/CD pipeline via GitHub Actions with automatic report publishing.
 - 🔹 [qa-cypress-api](https://github.com/victorbarsanele/qa-cypress-api)  
-  API automation project with Cypress covering CRUD operations, token-based authentication, positive and negative test scenarios, consolidated reporting with Mochawesome, and CI pipeline with artifact publishing.
+  API automation with Cypress covering CRUD operations, token-based auth, negative scenarios, and Mochawesome reporting.
 - 🔹 [qa-cypress-e2e](https://github.com/victorbarsanele/qa-cypress-e2e)  
-  End-to-end automation project with Cypress focused on QA best practices, test data isolation, HTML reporting with Mochawesome, and CI/CD integration using GitHub Actions.
+  E2E automation with Cypress focused on data isolation, HTML reporting with Mochawesome, and CI/CD with GitHub Actions.
 
 ## 🛠️ Tech Stack
-- Cypress
-- Playwright
-- JavaScript / TypeScript
-- GitHub Actions (CI)
-- End-to-End Testing
-- Git / GitHub
+
+- Node.js, Fastify, TypeScript, Prisma, PostgreSQL
+- React, Vite, Tailwind CSS
+- Google Gemini (Function Calling), Evolution API (WhatsApp)
+- Vitest, Playwright, Cypress
+- Git, GitHub Actions
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/victorbarsanele/
