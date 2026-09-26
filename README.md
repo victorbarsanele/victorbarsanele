@@ -8,17 +8,12 @@
 
 Software Engineer Jr | Node.js · TypeScript · Fastify · React
 
-Software Engineer Jr com foco em Node.js, TypeScript, Fastify, PostgreSQL/Prisma
-e React. Construo aplicações full-stack completas, do banco de dados à interface.
-Atualmente desenvolvendo um sistema de agendamento com atendimento automatizado
-via WhatsApp e IA para um cliente real. Base sólida em testes automatizados
-(Playwright, Cypress, Vitest), aplicada hoje ao próprio código que escrevo.
-Aberto a oportunidades de Software Engineer Jr, remotas ou em São Paulo.
+Software Engineer Jr formado em Ciência da Computação pelo IFSP, com experiência em desenvolvimento full stack com Node.js, TypeScript, Fastify, PostgreSQL/Prisma e React. Desenvolvi uma solução de agendamento para cliente real com automação via WhatsApp e IA, além de testes automatizados E2E, de API e unitários com Playwright, Cypress e Vitest.
 
 ## 🚀 Projeto em destaque
 
 - 🔹 [barbearia-agendamento-ia](https://github.com/victorbarsanele/barbearia-agendamento-ia)  
-  Sistema full-stack de agendamento desenvolvido sob encomenda para um cliente real (barbearia), atualmente em piloto antes do deploy em produção. Backend em Fastify, TypeScript e Prisma/PostgreSQL, frontend em React, Vite e Tailwind. Atendimento automatizado via WhatsApp usando Google Gemini com Function Calling, incluindo criação, alteração e cancelamento de agendamentos por linguagem natural. Autenticação JWT, escalonamento automático para atendimento humano e correção de condição de corrida em confirmação de horários.
+  Sistema full-stack de agendamento desenvolvido sob encomenda para um cliente real (barbearia), atualmente em produção. Backend em Fastify, TypeScript e Prisma/PostgreSQL, frontend em React, Vite e Tailwind. Atendimento automatizado via WhatsApp usando Google Gemini com Function Calling, incluindo criação, alteração e cancelamento de agendamentos por linguagem natural. Autenticação JWT, escalonamento automático para atendimento humano e correção de condição de corrida em confirmação de horários.
 
 ## 🧪 Projetos de automação de testes
 
@@ -48,17 +43,12 @@ Aberto a oportunidades de Software Engineer Jr, remotas ou em São Paulo.
 
 Software Engineer Jr | Node.js · TypeScript · Fastify · React
 
-Software Engineer Jr focused on Node.js, TypeScript, Fastify, PostgreSQL/Prisma,
-and React. I build complete full-stack applications, from database to UI.
-Currently developing a scheduling system with automated WhatsApp and AI
-customer service for a real client. Solid foundation in automated testing
-(Playwright, Cypress, Vitest), now applied to my own code.
-Open to Software Engineer Jr opportunities, remote or in São Paulo.
+Software Engineer Jr with a Computer Science degree from IFSP, with experience in full-stack development using Node.js, TypeScript, Fastify, PostgreSQL/Prisma, and React. Built a scheduling solution for a real client with WhatsApp and AI automation, plus automated E2E, API, and unit tests using Playwright, Cypress, and Vitest.
 
 ## 🚀 Featured project
 
 - 🔹 [barbearia-agendamento-ia](https://github.com/victorbarsanele/barbearia-agendamento-ia)  
-  Full-stack scheduling system built for a real client (a barbershop), currently in a pilot phase before production deploy. Backend in Fastify, TypeScript, and Prisma/PostgreSQL, frontend in React, Vite, and Tailwind. Automated WhatsApp customer service using Google Gemini with Function Calling, including natural-language appointment creation, changes, and cancellations. JWT auth, automatic escalation to a human agent, and a race-condition fix for appointment confirmation.
+  Full-stack scheduling system built for a real client (a barbershop), currently in production. Backend in Fastify, TypeScript, and Prisma/PostgreSQL, frontend in React, Vite, and Tailwind. Automated WhatsApp customer service using Google Gemini with Function Calling, including natural-language appointment creation, changes, and cancellations. JWT auth, automatic escalation to a human agent, and a race-condition fix for appointment confirmation.
 
 ## 🧪 Test automation projects
 
